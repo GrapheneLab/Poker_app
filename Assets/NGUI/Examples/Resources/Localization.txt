@@ -1,0 +1,62 @@
+KEY,English,Русский,中国
+flag,Flag_Eng (2),Flag_Rus (2),Flag_China (2)
+Language,English,Русский,中国
+back,"Back","Назад","前"
+silometer,"Silometer","Силометр","测力计"
+sound,"Sound","Звук","声音"
+menu,"Menu","Меню","菜单"
+friend,"Invite friend","Позвать Друга","一个朋友"
+history,"History","История","故事"
+settings,"Settings","Настройки","设置"
+stend up,"Stand up","Встать","起床"
+back to lobby,"Back to lobby","В меню","在菜单中"
+Rebuy,"Rebuy","Ребай","重购"
+chekin,"Chek in","Чек ин"
+Fold,"Fold","Фолд"
+Call,"Call","Колл"
+Raise,"Raise","Райз"
+in progress,"In progress","В разработке","正在进行中"
+waiting,"Waiting for other players...","Ожидание игроков...","等待其他玩家。.."
+all in,"all in","Олл ин"
+current,"current","верно"
+start,"Start","Старт"
+ok,"Ok","Ок"
+chose,"Chose","Выбрать"
+play,"Play","Играть"
+Shuffle,"Shuffle and encrypt","Перемешиваем и шифруем"
+Player name,"Player name","Имя игрока"
+Combination,"Combination","Комбинация"
+prize,"Prize","Выигрыш"
+exit,"Exit","Выход"
+
+
+straight flesh,"Straight flesh","Стрит флеш",
+Four of a kind,"Four of a kind","Карэ"
+Full House,"Full House","Фул хаус"
+Flush,"Flush","Флеш"
+Straight,"Straight","Стрит"
+Three of a kind,"Three of a kind","Тройка"
+Two pair,"Two pair","Две пары"
+Pair,"Pair","Пара"
+Flush Royal,"Royal Fl‌u‌sh","Роял Флеш"
+High card,"High card","Высшая карта"
+Current Bet,"Current Bet:","Текущая ставка:"
+Current Bank,"Current Bank:","Текущий банк:"
+Player set,"call chek fall rise","колл чек фолл райс"
+
+1 scene
+Chose small blind,"Choose small blind:","Выберите блайнд:"
+Chose players count,"Choose players count:","Количество игроков:"
+Current buy-in,"Current buy-in:","Бай ин:"
+Current big blind,"Current big blind:","Большой блайнд:"
+Auto re-buy,"Auto re-buy","Авто закуп"
+
+
+MenuScene
+Paste,"Paste your private key string here","Нажмите здесь что бы начать писать"
+Import,"Import wallet",
+withdraw,"Withdraw and quit","Вывести и выйти"
+score,"Score:","Счет:"
+
+End menu
+continue,"Continue","Продолжить"
